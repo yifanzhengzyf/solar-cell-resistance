@@ -338,10 +338,10 @@ plt.xlabel('Cell Width (cm) ')
 plt.ylabel('Efficiency (%)')
 #%%
 
-fig1.savefig(r'VmaxvsCellwidth_Rsheet_%d_ohms.jpeg' %(Rsheet), format = 'png', dpi = 150)
-fig2.savefig(r'ImaxvsCellwidth_Rsheet_%d_ohms.jpeg'%(Rsheet), format = 'png', dpi = 150)
-fig3.savefig(r'PmaxvsCellwidth_Rsheet_%d_ohms.jpeg'%(Rsheet), format = 'png', dpi = 150)
-fig4.savefig(r'EffvsCellwidth_Rsheet_%d_ohms.jpeg'%(Rsheet), format = 'png', dpi = 150)
+fig1.savefig(r'VmaxvsCellwidth_Rsheet_%d_ohms.png' %(Rsheet), format = 'png', dpi = 100)
+fig2.savefig(r'ImaxvsCellwidth_Rsheet_%d_ohms.png'%(Rsheet), format = 'png', dpi = 100)
+fig3.savefig(r'PmaxvsCellwidth_Rsheet_%d_ohms.png'%(Rsheet), format = 'png', dpi = 100)
+fig4.savefig(r'EffvsCellwidth_Rsheet_%d_ohms.png'%(Rsheet), format = 'png', dpi = 100)
 
 #%%
 
