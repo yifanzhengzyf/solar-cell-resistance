@@ -25,4 +25,4 @@ The cell is discretized into multiple cells in series.
 ![MaxI](ImaxvsCellwidth_Rsheet_20_ohms.jpeg)
 
 
------
+
