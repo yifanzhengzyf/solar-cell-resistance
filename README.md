@@ -10,19 +10,19 @@ The cell is discretized into multiple cells in series.
 ![Schematic](Schematic_1.png)
 
 -----
-![Eff](EffvsCellwidth_Rsheet_20_ohms.jpeg)
+![Eff](EffvsCellwidth_Rsheet_20_ohms.png)
 
 
 -----
-![MaxP](PmaxvsCellwidth_Rsheet_20_ohms.jpeg)
+![MaxP](PmaxvsCellwidth_Rsheet_20_ohms.png)
 
 
 -----
-![MaxV](VmaxvsCellwidth_Rsheet_20_ohms.jpeg)
+![MaxV](VmaxvsCellwidth_Rsheet_20_ohms.png)
 
 
 -----
-![MaxI](ImaxvsCellwidth_Rsheet_20_ohms.jpeg)
+![MaxI](ImaxvsCellwidth_Rsheet_20_ohms.png)
 
 
 
